@@ -85,8 +85,8 @@ function draw() {
   //camera.position.x = displayWidth/2;
   // camera.position.x - mainCyclist.y;
 
-  camera.position.x = displayWidth/2;
-  camera.position.y - mainCyclist.y;
+  //camera.position.x = displayWidth/2;
+  //camera.position.y - mainCyclist.y;
   
   //código para reset (redefinir) o fundo
   if(path.x < 0 ){
